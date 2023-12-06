@@ -62,14 +62,14 @@
 
 //váriáveis //
 
-// let idade = 38
+// let idade = 48
 // console.log(idade)
 
 
-// let altura = 170 
+// let altura = 190 
 // console.log(altura)
 
-// let endereco = "rua martins de carvalho"
+// let endereco = "rua dos arcanjos"
 // console.log(endereco)
 
 // let bairro = 'Bom jardim'
@@ -132,7 +132,7 @@
 
 ////////////////////////////////////////////////
 // Tipos de funções //
-// 1ª Realiza uma tarefa e não devolve nada //
+// 1ª Realiza uma tarefa e não retorna nada //
 // function meuCelular(){
 //     console.log('samsung')
 // }
